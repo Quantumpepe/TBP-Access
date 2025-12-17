@@ -1,0 +1,11 @@
+{
+  "name": "TBP Contributor Access",
+  "description": "Access NFT for the TBP ecosystem. All tokens are identical. Price defines access tier.",
+  "image": "https://quantumpepe.github.io/TBP-Access/Core.png",
+  "attributes": [
+    {
+      "trait_type": "Access",
+      "value": "Contributor"
+    }
+  ]
+}
